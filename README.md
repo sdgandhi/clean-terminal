@@ -6,7 +6,12 @@ So you can show people what terminal commands to use in a pleasant way.
 
 ## How?
 
+`npm install clean-terminal`
+
 ```jsx
+import {CleanTerminal, StatementLine, InputStatementLine} from 'clean-terminal';
+
+...
 
 <CleanTerminal>
     <InputStatementLine>echo "<span role="img" aria-label="wave">👋</span> Hello, friend."</InputStatementLine>
