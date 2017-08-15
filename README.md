@@ -21,7 +21,7 @@ So you can show people what terminal commands to use in a pleasant way.
 
 ```
 
-![Example 1](https://github.com/username/repository/blob/master/example/example1.png)
+![Example 1](https://github.com/sdgandhi/clean-terminal/blob/master/example/example1.png)
 
 ## What?
 It's a [React](https://facebook.github.io/react/) component!
